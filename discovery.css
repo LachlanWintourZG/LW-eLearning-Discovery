@@ -1,5 +1,5 @@
 body {
-    background-image: url('https://cdn.zephragroup.com.au/LMSDiscovery/background.png');
+    background-image: url('https://res.cloudinary.com/zephragroup/image/upload/v1725707313/LWEL-Background_bzhohz.png');
     font-family: Arial;
 }
 
@@ -15,7 +15,7 @@ body {
     border-radius: 20px;
     padding: 10px 40px;
     display: inline-block;
-    background-color: #ff4747;
+    background-color: #011936;
 }
 
 .buttonbox {
